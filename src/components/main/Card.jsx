@@ -12,7 +12,7 @@ const Card = ({ title, desc, image, type }) => {
         </div>
         <img src={image} alt={title} />
         <div className="card__over">
-          <h2>{desc}</h2>
+          <h3>{desc}</h3>
         </div>
       </div>
     </div>

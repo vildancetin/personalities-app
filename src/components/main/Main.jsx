@@ -8,8 +8,8 @@ const Main = () => {
     <div>
       <Navbar />
       <div className="typeList">
-        {data.map((da) => {
-          return <Card key={da.id} {...da} />;
+        {data.map((type) => {
+          return <Card key={type.id} {...type} />;
         })}
       </div>
     </div>

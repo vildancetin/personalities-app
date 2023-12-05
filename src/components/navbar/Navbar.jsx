@@ -1,5 +1,5 @@
 import "./Navbar.scss";
-import img from "../../img/brain.jpg"
+import img from "../../img/brain.png"
 import { Header } from "../header/Header";
 const Navbar=()=>{
     return (
