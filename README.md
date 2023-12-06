@@ -19,3 +19,8 @@ In the Sass section, I defined static values such as mixins, variables, and a re
 Notably, when hovering over a Card, additional content is revealed, disappearing when the mouse is moved away.
 ### Outcome
 ![personalities](https://github.com/vildancetin/personalities-app/assets/75564722/f6660829-b925-4635-8a68-59c447f6e6aa)
+### Demo
+[Demo](https://personalitiestypes.netlify.app/)
+---
+Data was taken from https://www.16personalities.com/
+---
