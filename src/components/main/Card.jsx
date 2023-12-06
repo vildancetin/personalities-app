@@ -1,5 +1,5 @@
 import "./Main.scss"
-const Card = ({ title, desc, image, type }) => {
+const Card = ({ title, desc, image, type,category }) => {
   console.log(image);
   return (
     <div>
@@ -9,6 +9,7 @@ const Card = ({ title, desc, image, type }) => {
         </div>
         <div className="type">
           <h3>{type}</h3>
+          <h2>{category}</h2>
         </div>
         <img src={image} alt={title} />
         <div className="card__over">

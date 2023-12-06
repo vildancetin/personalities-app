@@ -2,7 +2,8 @@
 @import "../../scss/mixins";
 nav{
     @include flex(row,space-between,1rem);
-
+    background-color: $blue-green;
+    padding: 1rem;
     img{
         width: 100px;
     }
